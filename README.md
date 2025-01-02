@@ -19,7 +19,7 @@ Trends Bot is a Discord bot that fetches and displays trending topics from Googl
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/pythontooth/TRENDS_BOT.git
+    git clone https://github.com/pythontooth/trendsdiscordbot.git
     cd TRENDS_BOT
     ```
 
